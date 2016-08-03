@@ -1,16 +1,16 @@
-typography_spectrum: 0.1785246271174401
+typography_spectrum: 0.5240571219474077
 color:
-  brandStrength: 0.6403728197328746
-  lightness: 0.8408965696580708
-  saturation: 0.2668630788102746
-  rhythmicContrast: 0.7344876052811742
+  brandStrength: 0.7591793849132955
+  lightness: 0.9888707813806832
+  saturation: 0.3741940730251372
+  rhythmicContrast: 0.9409053700510412
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-layout_spectrum: 0.21326602017506957
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+layout_spectrum: 0.6412431434728205
 name: PACIS
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b0f44ab5-a174-4621-9057-3b50ebda3d18.jpg
